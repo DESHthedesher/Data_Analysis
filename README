@@ -1,0 +1,6 @@
+This is supposed to be a modular program which uses least-squares regression methods to fit data with or without error, and to give measurements which can be used in model slection. 
+I am aware that numerous software packages like this exist, but they often do not have specific fits for all models, and as such make extensive use of numerical methods. The secondary purpose of this software is to serve as a simple platform for development of more specific fits (Worm-Like chain and Langmuir fits being examples relevant to my own work. 
+
+The third reason for designing this software is to gain programming experience for myself in writing human-usable code that can readily be added to.
+
+DESH 
